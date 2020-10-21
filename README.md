@@ -9,3 +9,4 @@ Usefull links for GIS<br>
 <hr>
 <h1>Youtube</h1>
 <strong><a href="https://www.youtube.com/channel/UCWZ9h9DLnWtofBOZusAnWBQ">Carten cartography factory youtube chanell</a><strong>
+<strong><a href="https://gisgeography.com/qgis-tutorial-how-to-use-qgis-3/">QGIS Tutorial: How To Use QGIS 3 in gisgeography.com/</a><strong>
