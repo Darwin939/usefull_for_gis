@@ -5,7 +5,7 @@ Usefull links for GIS<br>
 <br>
 <b><a href="https://www.qgis.org/en/docs/index.html">Qgis official documentaion</a></b>
 <br>
-<b><a href="http://ecopri.ru/files/doppdf/6482.pdfl">ECO app in QGIS, in russian</a></b>
+<b><a href="http://ecopri.ru/files/doppdf/6482.pdf">ECO app in QGIS, in russian</a></b>
 <br>
 <strong><a href="https://tsamsonov.github.io/arcgis-course/">ArcGis tutorial book from russian teacher</a><strong>
 <hr>
